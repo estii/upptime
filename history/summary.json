@@ -4,19 +4,19 @@
     "url": "https://estii.com",
     "icon": "https://favicons.githubusercontent.com/estii.com",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 166,
-    "timeWeek": 220,
-    "timeMonth": 229,
-    "timeYear": 228,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 230,
+    "timeDay": 225,
+    "timeWeek": 234,
+    "timeMonth": 232,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 13
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.estii.com",
     "icon": "https://favicons.githubusercontent.com/api.estii.com",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 164,
-    "timeDay": 142,
-    "timeWeek": 161,
-    "timeMonth": 167,
+    "timeDay": 161,
+    "timeWeek": 166,
+    "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 13
     }
   }
 ]
