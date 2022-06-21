@@ -4,19 +4,19 @@
     "url": "https://estii.com",
     "icon": "https://favicons.githubusercontent.com/estii.com",
     "slug": "web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 358,
-    "timeWeek": 251,
-    "timeMonth": 236,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 233,
+    "timeDay": 350,
+    "timeWeek": 260,
+    "timeMonth": 239,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 30
     }
   },
   {
