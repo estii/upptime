@@ -6,15 +6,15 @@
     "slug": "web",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 235,
-    "timeDay": 315,
-    "timeWeek": 274,
-    "timeMonth": 245,
-    "timeYear": 235,
+    "time": 237,
+    "timeDay": 328,
+    "timeWeek": 281,
+    "timeMonth": 247,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-06-21": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 84,
-    "timeWeek": 158,
-    "timeMonth": 136,
-    "timeYear": 164,
+    "time": 182,
+    "timeDay": 1412,
+    "timeWeek": 326,
+    "timeMonth": 175,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 193,
-    "timeWeek": 194,
-    "timeMonth": 174,
+    "timeDay": 151,
+    "timeWeek": 187,
+    "timeMonth": 173,
     "timeYear": 167,
     "dailyMinutesDown": {}
   }
