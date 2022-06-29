@@ -4,18 +4,19 @@
     "url": "https://estii.com",
     "icon": "https://favicons.githubusercontent.com/estii.com",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 239,
-    "timeDay": 395,
-    "timeWeek": 274,
-    "timeMonth": 252,
-    "timeYear": 239,
+    "time": 237,
+    "timeDay": 247,
+    "timeWeek": 252,
+    "timeMonth": 248,
+    "timeYear": 237,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-06-21": 30
     }
   },
@@ -42,17 +43,19 @@
     "url": "https://api.estii.com",
     "icon": "https://favicons.githubusercontent.com/api.estii.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 184,
-    "timeWeek": 162,
-    "timeMonth": 176,
-    "timeYear": 167,
-    "dailyMinutesDown": {}
+    "time": 165,
+    "timeDay": 119,
+    "timeWeek": 148,
+    "timeMonth": 173,
+    "timeYear": 165,
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   }
 ]
