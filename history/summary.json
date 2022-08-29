@@ -4,7 +4,7 @@
     "url": "https://estii.com",
     "icon": "https://favicons.githubusercontent.com/estii.com",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 311,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2022-08-29": 0,
       "2022-07-19": 51,
       "2022-07-03": 22,
       "2022-06-30": 19,
