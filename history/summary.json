@@ -2,9 +2,9 @@
   {
     "name": "Web",
     "url": "https://estii.com",
-    "icon": "https://favicons.githubusercontent.com/estii.com",
+    "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 277,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-09-22": 344,
       "2022-09-21": 135,
       "2022-08-29": 23,
@@ -28,7 +29,7 @@
   {
     "name": "App",
     "url": "https://app.estii.com",
-    "icon": "https://favicons.githubusercontent.com/app.estii.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.estii.com.ico",
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
@@ -46,7 +47,7 @@
   {
     "name": "API",
     "url": "https://api.estii.com",
-    "icon": "https://favicons.githubusercontent.com/api.estii.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.estii.com.ico",
     "slug": "api",
     "status": "up",
     "uptime": "99.98%",
