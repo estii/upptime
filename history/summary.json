@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 260,
-    "timeDay": 174,
-    "timeWeek": 250,
+    "timeDay": 319,
+    "timeWeek": 251,
     "timeMonth": 287,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -33,18 +33,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 106,
-    "timeWeek": 159,
-    "timeMonth": 236,
+    "timeDay": 175,
+    "timeWeek": 153,
+    "timeMonth": 235,
     "timeYear": 200,
-    "dailyMinutesDown": {
-      "2022-11-08": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -58,8 +56,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 135,
-    "timeWeek": 164,
+    "timeDay": 188,
+    "timeWeek": 157,
     "timeMonth": 183,
     "timeYear": 181,
     "dailyMinutesDown": {
