@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
-    "time": 257,
-    "timeDay": 386,
-    "timeWeek": 269,
-    "timeMonth": 258,
-    "timeYear": 256,
+    "time": 258,
+    "timeDay": 292,
+    "timeWeek": 257,
+    "timeMonth": 256,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2023-04-22": 66,
       "2023-04-18": 17,
@@ -22,8 +22,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 181,
-      "2022-10-02": 259
+      "2023-04-13": 181
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 103,
-    "timeWeek": 831,
-    "timeMonth": 282,
+    "timeDay": 213,
+    "timeWeek": 848,
+    "timeMonth": 285,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2022-11-30": 20
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 236,
-    "timeWeek": 257,
-    "timeMonth": 250,
-    "timeYear": 178,
+    "time": 181,
+    "timeDay": 282,
+    "timeWeek": 258,
+    "timeMonth": 252,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
