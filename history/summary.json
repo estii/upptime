@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
-    "time": 255,
-    "timeDay": 65,
-    "timeWeek": 117,
+    "time": 254,
+    "timeDay": 129,
+    "timeWeek": 118,
     "timeMonth": 184,
     "timeYear": 244,
     "dailyMinutesDown": {
@@ -37,13 +37,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 137,
-    "timeWeek": 130,
-    "timeMonth": 145,
+    "timeDay": 100,
+    "timeWeek": 126,
+    "timeMonth": 147,
     "timeYear": 172,
-    "dailyMinutesDown": {
-      "2022-11-30": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 343,
-    "timeWeek": 318,
-    "timeMonth": 313,
+    "timeDay": 304,
+    "timeWeek": 313,
+    "timeMonth": 315,
     "timeYear": 196,
     "dailyMinutesDown": {}
   }
