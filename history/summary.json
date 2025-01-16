@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 156,
-    "timeWeek": 144,
-    "timeMonth": 125,
+    "timeDay": 136,
+    "timeWeek": 146,
+    "timeMonth": 126,
     "timeYear": 154,
-    "dailyMinutesDown": {
-      "2024-01-17": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 163,
-    "timeWeek": 163,
-    "timeMonth": 136,
+    "timeDay": 152,
+    "timeWeek": 170,
+    "timeMonth": 134,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 413,
-    "timeWeek": 415,
-    "timeMonth": 375,
+    "timeDay": 286,
+    "timeWeek": 407,
+    "timeMonth": 370,
     "timeYear": 402,
     "dailyMinutesDown": {}
   }
