@@ -4,19 +4,19 @@
     "url": "https://estii.com",
     "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 121,
-    "timeWeek": 139,
-    "timeMonth": 146,
+    "timeDay": 139,
+    "timeWeek": 141,
+    "timeMonth": 147,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 11
     }
   },
   {
