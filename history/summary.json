@@ -6,18 +6,16 @@
     "slug": "web",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 139,
-    "timeWeek": 141,
-    "timeMonth": 147,
+    "timeDay": 158,
+    "timeWeek": 147,
+    "timeMonth": 149,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2025-03-11": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 136,
-    "timeWeek": 167,
-    "timeMonth": 127,
+    "timeDay": 73,
+    "timeWeek": 166,
+    "timeMonth": 124,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 422,
-    "timeWeek": 396,
-    "timeMonth": 362,
+    "timeDay": 484,
+    "timeWeek": 417,
+    "timeMonth": 368,
     "timeYear": 390,
     "dailyMinutesDown": {}
   }
