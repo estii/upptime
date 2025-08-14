@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 160,
-    "timeWeek": 146,
-    "timeMonth": 141,
+    "timeDay": 132,
+    "timeWeek": 148,
+    "timeMonth": 143,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2025-08-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -26,18 +24,16 @@
     "slug": "app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 137,
-    "timeWeek": 125,
-    "timeMonth": 156,
+    "timeDay": 142,
+    "timeWeek": 127,
+    "timeMonth": 157,
     "timeYear": 153,
-    "dailyMinutesDown": {
-      "2025-08-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 436,
-    "timeWeek": 412,
-    "timeMonth": 405,
+    "timeDay": 302,
+    "timeWeek": 402,
+    "timeMonth": 402,
     "timeYear": 386,
     "dailyMinutesDown": {}
   }
