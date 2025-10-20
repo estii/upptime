@@ -22,19 +22,19 @@
     "url": "https://app.estii.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.estii.com.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 1205,
-    "timeWeek": 447,
-    "timeMonth": 238,
+    "timeDay": 936,
+    "timeWeek": 420,
+    "timeMonth": 236,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 6
     }
   },
   {
