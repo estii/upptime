@@ -4,19 +4,19 @@
     "url": "https://estii.com",
     "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 103,
-    "timeWeek": 154,
-    "timeMonth": 144,
+    "timeDay": 133,
+    "timeWeek": 155,
+    "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.estii.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.estii.com.ico",
     "slug": "app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 100,
-    "timeWeek": 131,
-    "timeMonth": 233,
+    "timeDay": 135,
+    "timeWeek": 136,
+    "timeMonth": 231,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 6
     }
   },
   {
