@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/estii.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 392,
-    "timeWeek": 209,
-    "timeMonth": 181,
-    "timeYear": 156,
+    "timeDay": 276,
+    "timeWeek": 212,
+    "timeMonth": 182,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2026-01-21": 21
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 440,
-    "timeWeek": 222,
-    "timeMonth": 196,
-    "timeYear": 163,
+    "timeDay": 267,
+    "timeWeek": 218,
+    "timeMonth": 198,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2026-01-21": 21
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 357,
-    "timeDay": 568,
-    "timeWeek": 430,
-    "timeMonth": 342,
+    "timeDay": 413,
+    "timeWeek": 420,
+    "timeMonth": 343,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-11-18": 182
